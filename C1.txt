@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello kiev obl in C1
+=======
+Hello Praha
+>>>>>>> 6482776964a011adafe4d0bac067b1db29b7fb9f
 Home work

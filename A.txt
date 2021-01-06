@@ -1,5 +1,11 @@
 Hello kiev in A
 Home work
+<<<<<<< HEAD
 Hello kiev 
 Home work
 
+=======
+Home work
+Home work
+Home work
+>>>>>>> 6482776964a011adafe4d0bac067b1db29b7fb9f

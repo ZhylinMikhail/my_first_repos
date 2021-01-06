@@ -1,5 +1,11 @@
 Hello Odessa in D
 Home work
+<<<<<<< HEAD
 Hello Odessa 
 Home work
 
+=======
+Home work
+Home work
+Home work
+>>>>>>> 6482776964a011adafe4d0bac067b1db29b7fb9f
